@@ -6,5 +6,5 @@
 |--------|--------|--------|
 | GitHub |[@daiyaone](https://github.com/daiyaone)| ![](/img/QR_997039.png) |
 | Twitter |[@daiyaone](https://twitter.com/daiyaone)| ![](\QR_997270.png) |
-| Zenn |[@daiyaone](https://zenn.dev/daiyaone)| ![](\QR_997221.png) | 
+| Zenn |[@daiyaone](https://zenn.dev/daiyaone)| ![](/img/QR_997221.png) | 
 
